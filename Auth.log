@@ -1,0 +1,29 @@
+TrinityCore rev. unknown 1970-01-01 00:00:00 +0000 (Archived branch) (Win64, Release, Static) (authserver)
+<Ctrl-C> to stop.
+
+ ______                       __
+/\__  _\       __          __/\ \__
+\/_/\ \/ _ __ /\_\    ___ /\_\ \, _\  __  __
+   \ \ \/\`'__\/\ \ /' _ `\/\ \ \ \/ /\ \/\ \
+    \ \ \ \ \/ \ \ \/\ \/\ \ \ \ \ \_\ \ \_\ \
+     \ \_\ \_\  \ \_\ \_\ \_\ \_\ \__\\/`____ \
+      \/_/\/_/   \/_/\/_/\/_/\/_/\/__/ `/___/> \
+                                 C O R E  /\___/
+http://TrinityCore.org                    \/__/
+
+Using configuration file C:/TrinityCore/emulador/authserver.conf.
+Using SSL version: OpenSSL 1.1.1d  10 Sep 2019 (library: OpenSSL 1.1.1d  10 Sep 2019)
+Using Boost version: 1.66.0
+Automatic database updates are disabled for all databases!
+Opening DatabasePool 'auth'. Asynchronous connections: 1, synchronous connections: 1.
+MySQL client library: 5.6.47
+MySQL server ver: 5.6.47-log 
+Connected to MySQL database at 127.0.0.1
+MySQL client library: 5.6.47
+MySQL server ver: 5.6.47-log 
+Connected to MySQL database at 127.0.0.1
+DatabasePool 'auth' opened successfully. 2 total connections running.
+Started auth database connection pool.
+Loading IP Location Database...
+Added realm "NianWoW" at 127.0.0.1:8085.
+Ping MySQL to keep connection alive
